@@ -1,0 +1,6 @@
+{
+  "name": "Computer Race - Gerak Lurus",
+  "description": "Game edukatif interaktif balapan komputer untuk pembelajaran IPA SMP materi Gerak Lurus (GLB & GLBB) 2-5 pemain pada IFP touchscreen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
